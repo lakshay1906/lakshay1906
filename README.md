@@ -45,3 +45,7 @@ Full-stack developer building web apps with **TypeScript, Node & React** — cur
 ### 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=lakshay1906&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+
+<div align="center">
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
+</div>
