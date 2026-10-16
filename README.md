@@ -3,7 +3,7 @@
 Full-stack developer building web apps with **TypeScript, Node & React** — currently exploring **RAG / AI-powered apps**.
 
 - 🔭 Working on: _LexRAG — Legal Document Intelligence System_
-- 🌱 Learning: _RAG, event-driven architecture system design, testing_
+- 🌱 Learning: _RAG, event-driven architecture, system design, testing_
 - 💬 Ask me about: _TypeScript, Node.js, React_
 - 📫 Reach me: **lakshaybhati1906@gmail.com**
 
