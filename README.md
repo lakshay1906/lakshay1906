@@ -9,6 +9,8 @@ Full-stack developer building web apps with **TypeScript, Node & React** — cur
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshay~bhati)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lakshaybhati1906@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-1F3864?style=flat&logo=readdotcv&logoColor=white)](https://pub-7c609686c4f44beaabae4f01c8b08f9c.r2.dev/resume/Lakshay_Bhati_Resume_AI_Integrated_FullStack.pdf)
+[![AWS Certified](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://pub-7c609686c4f44beaabae4f01c8b08f9c.r2.dev/resume/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
 
 ---
 
