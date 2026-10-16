@@ -3,7 +3,7 @@
 Full-stack developer building web apps with **TypeScript, Node & React** — currently exploring **RAG / AI-powered apps**.
 
 - 🔭 Working on: _LexRAG — Legal Document Intelligence System_
-- 🌱 Learning: _RAG, OpenAI Integration, system design, testing_
+- 🌱 Learning: _RAG, event-driven architecture system design, testing_
 - 💬 Ask me about: _TypeScript, Node.js, React_
 - 📫 Reach me: **lakshaybhati1906@gmail.com**
 
@@ -37,7 +37,8 @@ Full-stack developer building web apps with **TypeScript, Node & React** — cur
 ### 🚀 Featured Projects
 
 - **[RAG-project](https://github.com/lakshay1906/RAG-project)** — _LexRAG — an end-to-end RAG pipeline delivering AI-powered Q&A over 30,000+ legal documents, built with Next.js, Python, AWS (S3/RDS/EC2), pgvector, and OpenAI/Ollama._
-- **[myKunba](https://github.com/lakshay1906/myKunba)** — _myKunba — a blogging platform with 80% faster load times (Cloudflare CDN + edge caching), built with Next.js, PostgreSQL, Drizzle ORM, GraphQL, Payload CMS, and AWS/Docker._
+- **[JobPulse](https://github.com/lakshay1906/JobPulse)** — _JobPulse — a blogging platform with 80% faster load times (Cloudflare CDN + edge caching), built with Next.js, PostgreSQL, Drizzle ORM, GraphQL, Payload CMS, and AWS/Docker._
+- **[myKunba](https://github.com/lakshay1906/myKunba)** — _JobPulse — NestJS microservices platform — REST + gRPC API Gateway, Redis caching & rate-limiting, BullMQ background workers, event-driven architecture (Redis Streams, Transactional Outbox). Next.js frontend. PostgreSQL + Prisma. Docker Compose._
 - **[server_sent_events](https://github.com/lakshay1906/server_sent_events)** — _Explored real-time data delivery patterns — Short/Long Polling, WebSockets (full-duplex), and Server-Sent Events — comparing trade-offs to pick the right one per use case._
 
 ---
